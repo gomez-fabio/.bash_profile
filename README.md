@@ -1,4 +1,4 @@
 # .bash_profile
 emoji credit to github.com/buzkall/
 
-fuck alias credit to github.com/dfreniche/
+fuck and android aliases kudos to github.com/dfreniche/
