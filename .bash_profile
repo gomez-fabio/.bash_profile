@@ -3,3 +3,4 @@ export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 alias ls='ls -GFh'
 alias fuck='sudo $(history -p !!)'
+alias android=' open -a /Applications/Android\ Studio.app .'
